@@ -7,6 +7,17 @@
 📍 Ubicació: València, Espanya  
 📫 Contacte: [LinkedIn](https://www.linkedin.com/in/xavier-mas%C3%B3-ferrando-195a3b63/) | [xavimaso@hotmail.com](mailto:xavimaso@hotmail.com)
 
+## 🚀 Projectes Destacats
+
+- [📦 WGU Inventory Project C482](https://github.com/samaruc88/WGU-InventoryProject-C482)  
+  Aplicació de gestió d'inventari feta en Java amb interfície gràfica JavaFX i estructura MVC.
+
+- [🧮 Calculadora amb Javadoc](https://github.com/antricki/calculadoraJavadoc)  
+  Projecte base per aprendre la documentació amb Javadoc dins d'una calculadora aritmètica senzilla.
+
+- [📁 Web amb model de caixa (CSS)](https://github.com/samaruc88/Exercici03-ModelCaixa)  
+  Pràctica de disseny web aplicant estils CSS segons el model de caixa per a replicar una maqueta visual.
+
 ## 🛠️ Habilitats Tècniques
 
 ### 🔤 Llenguatges i Llibreries
@@ -51,3 +62,9 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator)
+
+## 📊 Estadístiques de GitHub
+
+![Estadístiques de GitHub](https://github-readme-stats.vercel.app/api?username=samaruc88&show_icons=true&theme=radical&locale=es)
+
+![Llenguatges més usats](https://github-readme-stats.vercel.app/api/top-langs/?username=samaruc88&layout=compact&theme=radical)
